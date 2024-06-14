@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Brad Loo Siu Hang</h1>
 <h3 align="center">An enthusiastic Robotic and AI Developer</h3>
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzc4MDMsIm5iZiI6MTcxODM3NzUwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDE1MDUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiMjM1NGNlNzU3YzQ5ZTBjMjNhMjUyMjI2OTZiODk1NThhYjljY2NjNjQ5Njc1MTlkZGU1MjQ5OWIzN2ZhYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oWSdzqai94ssLE-1P0UFJKHOnB2n-yICYfc1Hym2QCs">
 
 - 👋 Hi, I’m @BradLoo51 and I'm currently a **4th year student of Xiamen University Malaysia**
 - 🌱 I’m currently studying my **Bachelor's Degree of Engineering in Artificial Intelligence**
