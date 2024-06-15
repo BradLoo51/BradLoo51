@@ -19,27 +19,40 @@
 
 ## Languages and Tools:
 <div align="left">
-  <a href="https://www.arduino.cc/"><code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="35"/></code></a><img width="12"/>
-  <a href="https://www.w3schools.com/c/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/></code></a><img width="12"/>
-  <a href="https://www.w3schools.com/cpp/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/></code></a><img width="12"/>
-  <a href="https://keras.io/"><code><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="keras" height="35"/></code></a><img width="12"/>
-  <a href="https://www.mysql.com/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="35"/></code></a><img width="12"/>
-  <a href="https://opencv.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="opencv" height="35"/></code></a><img width="12"/>
-  <a href="https://pandas.pydata.org/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="35"/></code></a><img width="12"/>
-  <a href="https://www.photoshop.com/en"><code><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" height="35"/></code></a><img width="12"/>
-  <a href="https://www.python.org"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/></code></a><img width="12"/>
-  <a href="https://pytorch.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="35" /></code></a><img width="12"/>
-  <a href="https://www.raspberrypi.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="raspberry_pi" height="35" /></code></a><img width="12"/>
-  <a href="https://scikit-learn.org/"><code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/></code></a><img width="12"/>
-  <a href="https://seaborn.pydata.org/"><code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="35"/></code></a><img width="12"/>
-  <a href="https://www.tensorflow.org"><code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="35"/></code></a><img width="12"/>
+  <a href="https://www.arduino.cc/"><code><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.w3schools.com/c/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.w3schools.com/cpp/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://keras.io/"><code><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="keras" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.mysql.com/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://opencv.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="opencv" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://pandas.pydata.org/"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.photoshop.com/en"><code><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.python.org"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://pytorch.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="35" /></code></a>
+  <img width="12"/>
+  <a href="https://www.raspberrypi.org/"><code><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="raspberry_pi" height="35" /></code></a>
+  <img width="12"/>
+  <a href="https://scikit-learn.org/"><code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/></code></a>
+  <img width="12"/>
+  <a href="https://seaborn.pydata.org/"><code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="35"/></code></a>
+  <img width="12"/>
+  <a href="https://www.tensorflow.org"><code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="35"/></code></a>
   </div>
 
 <img align="center" width="1100" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradloo51&show_icons=true&locale=en&layout=compact&theme=onedark"/>
-  <img width="445" src="https://github-readme-stats.vercel.app/api?username=bradloo51&show_icons=true&locale=en&theme=onedark"/>
+  <img width="388" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradloo51&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+  <img width="432" src="https://github-readme-stats.vercel.app/api?username=bradloo51&show_icons=true&locale=en&theme=onedark"/>
 </div>
 
 
